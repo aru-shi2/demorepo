@@ -1,3 +1,4 @@
 # demorepo
- my first git repository.
+ my 1st git repository.
+ ok
  
